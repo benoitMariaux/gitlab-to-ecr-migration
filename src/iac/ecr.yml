@@ -20,7 +20,7 @@ Resources:
               "description": "Keep 5",
               "selection": {
                   "tagStatus": "tagged",
-                  "tagPrefixList": ["v3"],
+                  "tagPrefixList": ["CHOOSE_YOUR_PREFIX"],
                   "countType": "imageCountMoreThan",
                   "countNumber": 5
               },
